@@ -1,0 +1,266 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@200;300;400;500;600;700;800;900&display=swap');
+
+body {
+    font-family: 'Jost', sans-serif;
+    background: #181A29;
+}
+.navbar {
+    background: #181A29;
+    height: 100px;
+    color: white;
+}
+
+.icon {
+    width: 32px;
+}
+
+ul {
+    margin-top: 8px;
+}
+
+li {
+    display: inline-block;
+    font-weight: 900;
+    margin-left: 40px;
+    font-size: 20px;
+}
+
+li a {
+    color: #fff;
+}
+
+li a:hover {
+    text-decoration: none;
+    color: #fff;
+
+}
+.logo-img {
+    width: 110px;
+}
+
+.login {
+width: 182px;
+height: 50px;
+top: 29px;
+border: 3px solid #FF327C;
+box-sizing: border-box;
+border-radius: 77px;
+}
+
+.login h3 {
+    padding: 10px;
+    font-weight: 900;
+    font-size: 20px;
+    text-align: center;
+}
+
+.home {
+position: absolute;
+width: 102.3%;
+height: 472.58px;
+left: -33.5px;
+background: #4E23CB;
+}
+
+.home svg {
+    margin-top: 470px;
+}
+
+.hero h1 {
+    position: absolute;
+    font-size: 54px;
+    font-weight: 900;
+    color: white;
+    margin-top: 80px;
+}
+
+.hero h2 {
+    position: absolute;
+    font-size: 24px;
+    font-weight: 900;
+    color: white;
+    margin-top: 290px;
+}
+
+.hero a {
+    position: absolute;
+}
+
+.hero img {
+    width: 200px;
+    margin-top: 350px;
+}
+
+.hero .explorar {
+    margin-left: 230px;
+}
+
+.comprar h1 {
+    margin-top: 700px;
+    font-weight: 900;
+    color: white;
+}
+
+.comprar h2 {
+    margin-top: 90px;
+    font-weight: 900;
+    color: white;
+    font-size: 46px;
+}
+
+.comprar .linha {
+    background: #FF327C;
+    width: 100px;
+    height: 2px;
+    margin-bottom: 50px;
+}
+
+.comprar .cards {
+    display: flex;
+}
+
+.comprar .card {
+    width: 250px;
+    margin-left: 30px;
+    border: none;
+    border-radius: 30px;
+    background: #1A0C40;
+    color: white;
+}
+
+.comprar .card img {
+    border-radius: 30px;
+}
+
+.comprar .card p {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: 900;
+    font-family: 'Jost', sans-serif;
+}
+
+.comprar .card em {
+    color: #FF327C;
+    font-style: normal;
+}
+
+.comprar .card .compre {
+    margin-bottom: 10px;
+    padding: 8px;
+    width: 130px;
+    margin-left: 25%;
+    border: none;
+    border-radius: 20px;
+    background: #FF327C;
+    font-weight: 900;
+}
+
+.comprar .card .compre a {
+    color: white;
+}
+
+.funciona h1 {
+    margin-top: 100px;
+    font-weight: 900;
+    color: white;
+}
+
+.funciona .linha {
+    background: #FF327C;
+    width: 100px;
+    height: 2px;
+    margin-bottom: 30px;
+}
+
+.funciona .cards{
+    display: flex;
+    font-family: 'Jost', sans-serif;
+}
+
+.funciona .cards .card {
+    width: 320px;
+    background: transparent;
+    color: white;
+    border: none;
+}
+
+.funciona .cards img {
+    width: 70px;
+    margin-bottom: 10px;
+}
+
+.funciona .cards h6 {
+    font-weight: 800;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.funciona .cards p {
+    font-weight: 500;
+}
+
+.linha-diagonal {
+    width: 2px;
+    height: 260px;
+    background: #FF327C;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.linha-footer {
+    width: 100%;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.footer {
+    height: 300px;
+}
+
+.footer .cards {
+    display: flex;
+    color: white; 
+    font-weight: 800;
+}
+
+.footer .card {
+    margin-left: 90px;
+    background: transparent;
+    border: none;
+}
+
+.footer h1 {
+    font-weight: 800;
+}
+.footer .linha {
+    background: #FF327C;
+    width: 100px;
+    height: 2px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.footer a {
+    margin-top: 5px;
+    color: white;
+    font-size: 18px;
+}
+
+.footer p {
+    width: 300px;
+}
+
+.sub-footer {
+    background-color: #020611;
+    width: 100%;
+    height: 50px;
+    color: white;
+    text-align: center;
+    padding: 13px;
+}
+
+.sub-footer h5 {
+    font-family: 'Jost', sans-serif;
+    font-weight: 900;
+}
